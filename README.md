@@ -1,4 +1,4 @@
-custom
+hilight_c_functions
 ======
 
-this is my custom vim plugins
+this vim plugin hilight the c/cpp functions
