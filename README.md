@@ -1,4 +1,4 @@
-hilight_c_functions
+hilight-c-functions
 ======
 
 this vim plugin hilight the c/cpp functions
